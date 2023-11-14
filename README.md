@@ -1,2 +1,2 @@
-# CNN_CIFAR-100
-Kleines CNN zur Klassifizierung des CIFAR-100 Datensatzes.
+# CNN_CIFAR-10
+Kleines CNN zur Klassifizierung des CIFAR-10 Datensatzes.
