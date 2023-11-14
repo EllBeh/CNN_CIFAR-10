@@ -1,4 +1,4 @@
-# CNN-Modell zum Klassifizeiren des CIFAR-10 Datensatzes
+# CNN-Modell zum Klassifizieren des CIFAR-10 Datensatzes
 
 Dieses Notebook wurde ursprünglich im Rahmen eines Studienmoduls für den CIFAR100-Datensatz erstellt. Es lässt sich jedoch auch sehr effektiv und effizient auf den CIFAR10-Datensatz adaptieren und wird an dieser Stelle wiederverwendet sowie erläutert. Zusätzlich demonstriert es die Wiederverwendbarkeit des CNN-Modells ohne signifikante Änderungen durchführen zu müssen (bis auf das Laden des Datensatzes). 
 
